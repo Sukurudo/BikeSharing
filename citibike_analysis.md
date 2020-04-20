@@ -1,7 +1,7 @@
 # BikeSharing
 Des Moines Bike Share Proposal
 
-[link to dashboard]("https://public.tableau.com/profile/will.warriner#!/vizhome/bike_sharing_15873426749990/DEsMoinesBikeShareChallenge")
+[link to Tableau Story](https://public.tableau.com/profile/will.warriner#!/vizhome/bike_sharing_15873426749990/DEsMoinesBikeShareChallenge)
 
 
 ## Question
